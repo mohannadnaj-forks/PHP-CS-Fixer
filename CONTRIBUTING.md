@@ -33,6 +33,7 @@ Symfony projects for instance).
 * Run static analysis using PHPStan: `php -d memory_limit=256M dev-tools/vendor/bin/phpstan analyse`
 * Check if tests pass: `vendor/bin/phpunit`.
 * Fix project itself: `php php-cs-fixer fix`.
+* Run PHP Mess Detector: `dev-tools/vendor/bin/phpmd ./src github phpmd.xml`
 
 ## Working With Docker
 
