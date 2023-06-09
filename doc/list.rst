@@ -27,7 +27,7 @@ List of Available Rules
 
    - | ``sort_special_key_mode``
      | Whether to sort the specials keys on the bottom `special_case_on_bottom` or top `special_case_on_top`.
-     | Allowed values: ``'special_case_on_bottom'``, ``'special_case_on_top'``
+     | Allowed values: ``'special_case_on_bottom'`` and ``'special_case_on_top'``
      | Default value: ``'special_case_on_bottom'``
 
 
